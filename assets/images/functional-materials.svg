@@ -1,0 +1,26 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="28" fill="#F6FBFC"/>
+  <circle cx="400" cy="260" r="112" fill="#DCEEF3"/>
+  <circle cx="400" cy="260" r="76" fill="#0D5F73" fill-opacity="0.16"/>
+  <circle cx="400" cy="260" r="24" fill="#0D5F73"/>
+  <circle cx="400" cy="124" r="15" fill="#C47A3C"/>
+  <circle cx="518" cy="182" r="15" fill="#C47A3C"/>
+  <circle cx="548" cy="312" r="15" fill="#C47A3C"/>
+  <circle cx="400" cy="396" r="15" fill="#C47A3C"/>
+  <circle cx="282" cy="312" r="15" fill="#C47A3C"/>
+  <circle cx="252" cy="182" r="15" fill="#C47A3C"/>
+  <path d="M400 148V221" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M500 197L442 232" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M500 323L442 288" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M400 372V299" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M300 323L358 288" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M300 197L358 232" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M150 104L230 104" stroke="#A8BBC2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M570 104L650 104" stroke="#A8BBC2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M150 416L230 416" stroke="#A8BBC2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M570 416L650 416" stroke="#A8BBC2" stroke-width="5" stroke-linecap="round"/>
+  <text x="118" y="92" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Light</text>
+  <text x="568" y="92" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Charge</text>
+  <text x="102" y="451" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Optical Response</text>
+  <text x="534" y="451" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Transport</text>
+</svg>

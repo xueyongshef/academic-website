@@ -1,0 +1,35 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="28" fill="#F6FBFC"/>
+  <rect x="70" y="372" width="660" height="36" rx="18" fill="#123847"/>
+  <rect x="170" y="336" width="460" height="30" rx="15" fill="#2D7C91" fill-opacity="0.22"/>
+  <circle cx="230" cy="323" r="20" fill="#0D5F73"/>
+  <circle cx="306" cy="323" r="20" fill="#0D5F73"/>
+  <circle cx="382" cy="323" r="20" fill="#0D5F73"/>
+  <circle cx="458" cy="323" r="20" fill="#0D5F73"/>
+  <circle cx="534" cy="323" r="20" fill="#0D5F73"/>
+  <circle cx="610" cy="323" r="20" fill="#0D5F73"/>
+  <circle cx="240" cy="255" r="17" fill="#C47A3C"/>
+  <circle cx="320" cy="216" r="17" fill="#C47A3C"/>
+  <circle cx="400" cy="181" r="17" fill="#C47A3C"/>
+  <circle cx="480" cy="216" r="17" fill="#C47A3C"/>
+  <circle cx="560" cy="255" r="17" fill="#C47A3C"/>
+  <path d="M240 255C272 235 290 225 320 216" stroke="#0D5F73" stroke-width="6" stroke-linecap="round"/>
+  <path d="M320 216C345 198 365 188 400 181" stroke="#0D5F73" stroke-width="6" stroke-linecap="round"/>
+  <path d="M400 181C431 187 451 198 480 216" stroke="#0D5F73" stroke-width="6" stroke-linecap="round"/>
+  <path d="M480 216C510 226 528 236 560 255" stroke="#0D5F73" stroke-width="6" stroke-linecap="round"/>
+  <path d="M240 255L240 304" stroke="#95ACB6" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M320 216L320 304" stroke="#95ACB6" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M400 181L400 304" stroke="#95ACB6" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M480 216L480 304" stroke="#95ACB6" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M560 255L560 304" stroke="#95ACB6" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M125 124H670" stroke="#A9B9C0" stroke-width="4"/>
+  <path d="M125 124V308" stroke="#A9B9C0" stroke-width="4"/>
+  <path d="M125 308H670" stroke="#A9B9C0" stroke-width="4"/>
+  <path d="M650 102L670 124L650 146" stroke="#A9B9C0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M103 288L125 308L147 288" stroke="#A9B9C0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="106" y="95" fill="#5D6D75" font-family="Arial, sans-serif" font-size="26">Reaction Energy</text>
+  <text x="540" y="342" fill="#F6FBFC" font-family="Arial, sans-serif" font-size="22">Catalyst Surface</text>
+  <text x="190" y="464" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Adsorption</text>
+  <text x="365" y="464" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Transition State</text>
+  <text x="584" y="464" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Products</text>
+</svg>

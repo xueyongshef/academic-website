@@ -1,0 +1,27 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="28" fill="#F6FBFC"/>
+  <path d="M88 304H272L350 258H498L548 224H644L710 252V296L662 312H540L484 346H288L212 374H118L88 352V304Z" fill="#0D5F73"/>
+  <path d="M548 224L602 178H678L704 224H548Z" fill="#2D7C91"/>
+  <circle cx="208" cy="374" r="28" fill="#123847"/>
+  <circle cx="208" cy="374" r="12" fill="#F6FBFC"/>
+  <circle cx="590" cy="312" r="28" fill="#123847"/>
+  <circle cx="590" cy="312" r="12" fill="#F6FBFC"/>
+  <rect x="88" y="104" width="182" height="110" rx="24" fill="#E2EFF2"/>
+  <rect x="312" y="104" width="182" height="110" rx="24" fill="#D7EAEE"/>
+  <rect x="536" y="104" width="182" height="110" rx="24" fill="#F0E2D4"/>
+  <circle cx="146" cy="158" r="14" fill="#C47A3C"/>
+  <circle cx="182" cy="140" r="14" fill="#0D5F73"/>
+  <circle cx="214" cy="168" r="14" fill="#0D5F73"/>
+  <circle cx="240" cy="142" r="14" fill="#C47A3C"/>
+  <circle cx="368" cy="146" r="12" fill="#0D5F73"/>
+  <circle cx="404" cy="168" r="12" fill="#0D5F73"/>
+  <circle cx="440" cy="146" r="12" fill="#0D5F73"/>
+  <path d="M380 146H428" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M392 168H416" stroke="#7DA8B6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M494 160H536" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M270 160H312" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <text x="115" y="90" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Fuel Molecules</text>
+  <text x="344" y="90" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Catalyst Design</text>
+  <text x="564" y="90" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Aviation Use</text>
+  <text x="562" y="164" fill="#C47A3C" font-family="Arial, sans-serif" font-size="28">SAF</text>
+</svg>

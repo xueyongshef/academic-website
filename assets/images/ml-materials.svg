@@ -1,0 +1,30 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="28" fill="#F6FBFC"/>
+  <rect x="70" y="108" width="168" height="108" rx="22" fill="#DCEEF3"/>
+  <rect x="316" y="108" width="168" height="108" rx="22" fill="#D8E7EA"/>
+  <rect x="562" y="108" width="168" height="108" rx="22" fill="#F2E3D4"/>
+  <rect x="190" y="314" width="420" height="110" rx="24" fill="#123847"/>
+  <circle cx="264" cy="164" r="12" fill="#0D5F73"/>
+  <circle cx="210" cy="164" r="12" fill="#0D5F73"/>
+  <circle cx="156" cy="164" r="12" fill="#0D5F73"/>
+  <circle cx="402" cy="146" r="12" fill="#0D5F73"/>
+  <circle cx="362" cy="186" r="12" fill="#0D5F73"/>
+  <circle cx="442" cy="186" r="12" fill="#0D5F73"/>
+  <circle cx="646" cy="164" r="12" fill="#C47A3C"/>
+  <circle cx="606" cy="144" r="12" fill="#C47A3C"/>
+  <circle cx="686" cy="144" r="12" fill="#C47A3C"/>
+  <circle cx="606" cy="184" r="12" fill="#C47A3C"/>
+  <circle cx="686" cy="184" r="12" fill="#C47A3C"/>
+  <path d="M238 164H316" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M484 164H562" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M278 218L330 314" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M400 218V314" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M522 218L470 314" stroke="#7DA8B6" stroke-width="8" stroke-linecap="round"/>
+  <rect x="256" y="348" width="288" height="18" rx="9" fill="#2D7C91"/>
+  <rect x="230" y="380" width="340" height="18" rx="9" fill="#3F90A4"/>
+  <text x="102" y="91" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Structure Data</text>
+  <text x="334" y="91" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Model</text>
+  <text x="591" y="91" fill="#5D6D75" font-family="Arial, sans-serif" font-size="24">Predictions</text>
+  <text x="282" y="293" fill="#5D6D75" font-family="Arial, sans-serif" font-size="22">Training Workflow</text>
+  <text x="277" y="452" fill="#F6FBFC" font-family="Arial, sans-serif" font-size="28">Machine Learning Pipeline</text>
+</svg>
