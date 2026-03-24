@@ -1,6 +1,6 @@
-# Xue Yong Academic Website
+# ACES Lab Website
 
-Simple static academic website prepared for GitHub Pages.
+Simple static academic website for ACES Lab prepared for GitHub Pages.
 
 ## Files
 
